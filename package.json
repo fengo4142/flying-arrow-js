@@ -17,7 +17,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.18.0",
+    "browser-sync": "^2.27.10",
     "npm-run-all": "^4.0.0",
     "onchange": "^3.2.0",
     "copyfiles": "^1.2.0",
